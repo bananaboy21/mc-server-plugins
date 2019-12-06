@@ -1,0 +1,32 @@
+lastAccountName: CyRIC21
+timestamps:
+  login: 1575585169915
+  logout: 1575585162296
+  lastteleport: 1575582593427
+ipAddress: 108.73.190.200
+logoutlocation:
+  world: world
+  x: 1302.3712134068705
+  y: 80.46031323317492
+  z: 133.13477419065543
+  yaw: -55.211937
+  pitch: 25.349972
+lastlocation:
+  world: world
+  x: 1002.529847891879
+  y: 40.0
+  z: -542.9125054777948
+  yaw: 209.39789
+  pitch: 18.450005
+afk: false
+homes:
+  home:
+    world: world
+    x: 1119.4033379576222
+    y: 85.0
+    z: -0.5885743368814299
+    yaw: 34.18988
+    pitch: 27.880312
+money: '9999999999'
+socialspy: true
+confirm-clear: true
